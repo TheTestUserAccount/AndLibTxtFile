@@ -1,7 +1,7 @@
 [---- Simple Module Creation and Using in Same Project ----] changed
 
 	1) Create a new project
- main branch changed here
+ main branch changed here  chaneb   skjdsjflj skjdsl
  
 	2) Now go to files-> modules -> new modules and create a module and select andorid library from left pane
 
