@@ -1,4 +1,4 @@
-[---- Simple Module Creation and Using in Same Project ----] changed primary branch stuff is here.
+[---- Simple Module Creation and Using in Same Project ----] changed  new compy.
 
 	1) Create a new project
 
@@ -12,7 +12,7 @@
 		e.g (implementation project(":your_project_name"))
 			
 
-[----Simple Module Creation and Using it in Other Project ----]
+[----Simple Module Creation and Using it in Other Project ----] this is very good way to create a new android library
 
 	Now, if you have create a module/library and you want to use it in another project simply go to 
 	build and select [make module]
