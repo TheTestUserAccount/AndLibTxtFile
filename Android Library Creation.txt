@@ -5,7 +5,7 @@
  
 	2) Now go to files-> modules -> new modules and create a module and select andorid library from left pane
 
-	3) Sync project 
+	3) Sync project  main
 
 	4) Go to build and select [make module]
 
